@@ -18,8 +18,8 @@ Attack: LCtrl
 Red--------------------------------------------------
 
 Direction: Arrow keys
-Jump: LShift
-Attack: LCtrl
+Jump: RShift
+Attack: RCtrl
 
 Movement--------------------------------------------------
 
